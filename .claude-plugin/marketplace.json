@@ -1,0 +1,11 @@
+{
+  "name": "giulia-claude-skills",
+  "owner": { "name": "Giulia Oliveira" },
+  "plugins": [
+    {
+      "name": "maestro-crm-growth",
+      "source": "./",
+      "description": "Maestro de CRM & Growth (HubSpot + WhatsApp) com 41 skills para aquisição de novos clientes."
+    }
+  ]
+}

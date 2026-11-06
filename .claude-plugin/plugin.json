@@ -1,0 +1,8 @@
+{
+  "name": "maestro-crm-growth",
+  "version": "1.0.0",
+  "description": "Maestro de CRM & Growth para aquisição de novos clientes no HubSpot: análise de leads e funil, campanhas, disparos de WhatsApp e estratégia de aquisição, com skills curadas do mercado.",
+  "author": { "name": "Giulia Oliveira" },
+  "license": "MIT",
+  "keywords": ["crm", "growth", "hubspot", "whatsapp", "revops", "funil", "aquisicao"]
+}
